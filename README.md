@@ -81,7 +81,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokassem2242&theme=dark&hide_border=false" width="320" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokassem2242&theme=dark&show_icons=true&hide_border=false&layout=compact" width="320" height="180"/>
 
 </div>
 
@@ -91,7 +90,7 @@
 ### 📬 Let's Connect & Collaborate 🤝
 
 <p align="center">
-  <a href="mailto:m.kassem.dev@gmail.com" target="_blank">
+  <a href="mailto:qasm15766@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamedkassemdev" target="_blank">
