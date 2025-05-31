@@ -4,14 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;.NET+Core+%7C+Angular+Specialist;Building+Scalable+Enterprise+Apps" alt="Typing SVG" />
 </div>
 
-
 <p align="center">
   .NET & Angular Developer 🇪🇬 → 🇦🇪<br/>
   Passionate about building smart systems that improve organizations.
 </p>
 
 ---
-
 
 ### 🛠️ Languages, Frameworks & Tools
 
@@ -31,49 +29,38 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
+---
 
+### 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-### 🏗️ Open Data Mining Portal – Fujairah  
-**Duration:** Jan 2024 – May 2024  
-**Stack:** .NET API, SQL Server, EF Core, Angular, RxJS, PrimeNG, ECharts, Tailwind  
-A digital portal for the mining sector in Fujairah showcasing categorized datasets to drive investment and economic growth.  
-**Highlights:**  
-- Designed a clean, user-friendly platform to visualize global/local mining data.  
-- Increased transparency and decision-making through structured open data.  
-- Delivered a scalable, modern portal aligned with economic development goals.
+#### 🏗️ Open Data Mining Portal – *Fujairah Government*
+🗓️ *Jan 2024 – May 2024*  
+**Stack:** `.NET API`, `SQL Server`, `EF Core`, `Angular`, `RxJS`, `PrimeNG`, `ECharts`, `Tailwind`  
+> Designed and delivered an open data portal for the mining sector in Fujairah, supporting economic decision-making with structured datasets.  
+✅ Scalable architecture • 📊 Interactive visualizations • 🏛️ Public data transparency
 
 ---
 
-### 🏅 Institutional Excellence System  
-**Duration:** Jan 2024 – May 2024  
-**Stack:** Angular, RxJS, PrimeNG, .NET API  
-Platform to automate recognition of top-performing departments, teams, and employees.  
-**Highlights:**  
-- Automated internal award processes and evaluations.  
-- Streamlined judging for higher efficiency and precision.  
-- Simplified internal recognition programs with a user-first approach.
+#### 🏅 Institutional Excellence Recognition System
+🗓️ *Jan 2024 – May 2024*  
+**Stack:** `Angular`, `RxJS`, `PrimeNG`, `.NET API`  
+> A web-based system to automate internal award nominations, evaluations, and scoring processes in large institutions.  
+⚙️ Workflow automation • 🧑‍⚖️ Judging panel tools • 🌟 User-first design
 
 ---
 
-### 🧠 Smart Strategy System  
-**Duration:** Jan 2024 – May 2024  
-**Stack:** Angular, RxJS, NgRx, WebSocket  
-Frontend for a system that automates strategic planning in organizations.  
-**Highlights:**  
-- Built a responsive UI to streamline strategic workflows.  
-- Simplified complex planning for better organizational focus.  
-- Delivered real-time performance with WebSocket integration.
+#### 🧠 Smart Strategy System
+🗓️ *Jan 2024 – May 2024*  
+**Stack:** `Angular`, `NgRx`, `RxJS`, `WebSocket`  
+> Frontend for a strategy management platform enabling real-time planning, alignment, and progress tracking.  
+📈 Real-time updates • 🧩 Modular UI • 🎯 Goal tracking
 
 ---
 
-### ⚖️ Chrome Extension for Lawyers  
-**Duration:** Oct 2023 – Jan 2024  
-**Stack:** Angular, Chrome API, Firebase  
-Productivity extension for lawyers to automate data extraction, manipulation, and reporting.  
-**Highlights:**  
-- Automated legal data filtering and export to Word documents.  
-- Simplified large dataset handling for legal professionals.  
-- Boosted productivity and report accuracy.
+#### ⚖️ Chrome Extension for Lawyers
+🗓️ *Oct 2023 – Jan 2024*  
+**Stack:** `Angular`, `Chrome API`, `Firebase`  
+> Productivity extension for legal professionals to auto-extract and export data to Word reports directly from the browser.  
+📄 Data scraping • 🧠 Legal automation • ⚡ Fast & reliable
 
+---
