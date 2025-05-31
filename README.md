@@ -69,5 +69,5 @@
 
 
 ![mokassem2242's Stats](https://github-readme-stats.vercel.app/api?username=mokassem2242&theme=dark&show_icons=true&hide_border=false&count_private=true)
----
+![mokassem2242's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mokassem2242&theme=dark&hide_border=false)
 ![mokassem2242's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokassem2242&theme=dark&show_icons=true&hide_border=false&layout=compact)
