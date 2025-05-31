@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Mohamed+Kassem;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+  </h1>
+</div>
 
-<!--
-**mokassem2242/mokassem2242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  .NET & Angular Developer 🇪🇬 → 🇦🇪<br/>
+  Passionate about building smart systems that improve organizations.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+
+| Frontend         | Backend            | Tools               |
+|------------------|--------------------|---------------------|
+| Angular ⚡        | .NET Core 🔧        | Git 🛠️               |
+| HTML/CSS 🎨       | Entity Framework 📦 | Postman 📫           |
