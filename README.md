@@ -30,10 +30,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ---
+<details>
+  <summary><strong>🚀 Featured Projects (click to expand)</strong></summary>
 
-### 🚀 Featured Projects
+<br/>
 
-#### 🏗️ Open Data Mining Portal – *Fujairah Government*
+#### 🏗️ Open Data Mining Portal – *Fujairah Government*  
 🗓️ *Jan 2024 – May 2024*  
 **Stack:** `.NET API`, `SQL Server`, `EF Core`, `Angular`, `RxJS`, `PrimeNG`, `ECharts`, `Tailwind`  
 > Designed and delivered an open data portal for the mining sector in Fujairah, supporting economic decision-making with structured datasets.  
@@ -41,7 +43,7 @@
 
 ---
 
-#### 🏅 Institutional Excellence Recognition System
+#### 🏅 Institutional Excellence Recognition System  
 🗓️ *Jan 2024 – May 2024*  
 **Stack:** `Angular`, `RxJS`, `PrimeNG`, `.NET API`  
 > A web-based system to automate internal award nominations, evaluations, and scoring processes in large institutions.  
@@ -49,7 +51,7 @@
 
 ---
 
-#### 🧠 Smart Strategy System
+#### 🧠 Smart Strategy System  
 🗓️ *Jan 2024 – May 2024*  
 **Stack:** `Angular`, `NgRx`, `RxJS`, `WebSocket`  
 > Frontend for a strategy management platform enabling real-time planning, alignment, and progress tracking.  
@@ -57,10 +59,12 @@
 
 ---
 
-#### ⚖️ Chrome Extension for Lawyers
+#### ⚖️ Chrome Extension for Lawyers  
 🗓️ *Oct 2023 – Jan 2024*  
 **Stack:** `Angular`, `Chrome API`, `Firebase`  
 > Productivity extension for legal professionals to auto-extract and export data to Word reports directly from the browser.  
 📄 Data scraping • 🧠 Legal automation • ⚡ Fast & reliable
 
----
+</details>
+
+
