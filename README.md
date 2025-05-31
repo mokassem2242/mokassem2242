@@ -70,18 +70,4 @@
 
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkassemdev&show_icons=true&theme=github_dark&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true" alt="Mohamed's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedkassemdev&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkassemdev&layout=compact&theme=github_dark&langs_count=10" alt="Top Languages" />
-</p>
-
+![mokassem2242's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokassem2242&theme=dark&show_icons=true&hide_border=false&layout=compact)
