@@ -68,6 +68,6 @@
 </details>
 
 
-
+![mokassem2242's Stats](https://github-readme-stats.vercel.app/api?username=mokassem2242&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ---
 ![mokassem2242's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokassem2242&theme=dark&show_icons=true&hide_border=false&layout=compact)
